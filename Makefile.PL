@@ -27,15 +27,15 @@ my %WriteMakefileArgs = (
     'Class::Load' => '0',
     'Data::Visitor::Callback' => '0',
     'Moose' => '0',
+    'Moose::Util::TypeConstraints' => '0',
     'MooseX::Types' => '0',
     'MooseX::Types::Moose' => '0',
     'MooseX::Types::Structured' => '0',
     'Perl6::Junction' => '0',
-    'Scalar::Defer' => '0',
     'Scalar::Util' => '0',
     'namespace::autoclean' => '0'
   },
-  'VERSION' => '1.110520',
+  'VERSION' => '1.110530',
   'test' => {
     'TESTS' => 't/*.t'
   }

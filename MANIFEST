@@ -7,6 +7,7 @@ Makefile.PL
 README
 dist.ini
 lib/MongoDBx/AutoDeref.pm
+lib/MongoDBx/AutoDeref/DBRef.pm
 lib/MongoDBx/AutoDeref/LookMeUp.pm
 lib/MongoDBx/AutoDeref/Types.pm
 t/00-load.t

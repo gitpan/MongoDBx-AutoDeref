@@ -1,6 +1,6 @@
 package MongoDBx::AutoDeref::Types;
 BEGIN {
-  $MongoDBx::AutoDeref::Types::VERSION = '1.110520';
+  $MongoDBx::AutoDeref::Types::VERSION = '1.110530';
 }
 
 #ABSTRACT: Types specific for MongoDBx::AutoDeref
@@ -33,7 +33,7 @@ MongoDBx::AutoDeref::Types - Types specific for MongoDBx::AutoDeref
 
 =head1 VERSION
 
-version 1.110520
+version 1.110530
 
 =head1 TYPES
 

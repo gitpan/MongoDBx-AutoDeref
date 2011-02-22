@@ -24,11 +24,11 @@
             "Class::Load" : 0,
             "Data::Visitor::Callback" : 0,
             "Moose" : 0,
+            "Moose::Util::TypeConstraints" : 0,
             "MooseX::Types" : 0,
             "MooseX::Types::Moose" : 0,
             "MooseX::Types::Structured" : 0,
             "Perl6::Junction" : 0,
-            "Scalar::Defer" : 0,
             "Scalar::Util" : 0,
             "namespace::autoclean" : 0
          }
@@ -48,6 +48,6 @@
          "url" : "git://github.com/nperez/mongodbx-autoderef.git"
       }
    },
-   "version" : "1.110520"
+   "version" : "1.110530"
 }
 

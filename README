@@ -1,7 +1,7 @@
 
 
 This archive contains the distribution MongoDBx-AutoDeref,
-version 1.110520:
+version 1.110530:
 
   Automagically dereference MongoDB DBRefs lazily
 
