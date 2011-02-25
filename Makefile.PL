@@ -14,7 +14,8 @@ my %WriteMakefileArgs = (
   'BUILD_REQUIRES' => {
     'Digest::SHA1' => '0',
     'MongoDB' => '0',
-    'Test::More' => '0'
+    'Test::More' => '0',
+    'Try::Tiny' => '0'
   },
   'CONFIGURE_REQUIRES' => {
     'ExtUtils::MakeMaker' => '6.31'
@@ -35,7 +36,7 @@ my %WriteMakefileArgs = (
     'Scalar::Util' => '0',
     'namespace::autoclean' => '0'
   },
-  'VERSION' => '1.110530',
+  'VERSION' => '1.110560',
   'test' => {
     'TESTS' => 't/*.t'
   }

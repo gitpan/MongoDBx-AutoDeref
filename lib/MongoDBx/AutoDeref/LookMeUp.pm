@@ -1,6 +1,6 @@
 package MongoDBx::AutoDeref::LookMeUp;
 BEGIN {
-  $MongoDBx::AutoDeref::LookMeUp::VERSION = '1.110530';
+  $MongoDBx::AutoDeref::LookMeUp::VERSION = '1.110560';
 }
 
 #ABSTRACT: Provides the sieve that replaces DBRefs with deferred scalars.
@@ -91,7 +91,7 @@ MongoDBx::AutoDeref::LookMeUp - Provides the sieve that replaces DBRefs with def
 
 =head1 VERSION
 
-version 1.110530
+version 1.110560
 
 =head1 DESCRIPTION
 

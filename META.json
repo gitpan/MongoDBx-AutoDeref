@@ -37,7 +37,8 @@
          "requires" : {
             "Digest::SHA1" : 0,
             "MongoDB" : 0,
-            "Test::More" : 0
+            "Test::More" : 0,
+            "Try::Tiny" : 0
          }
       }
    },
@@ -48,6 +49,6 @@
          "url" : "git://github.com/nperez/mongodbx-autoderef.git"
       }
    },
-   "version" : "1.110530"
+   "version" : "1.110560"
 }
 

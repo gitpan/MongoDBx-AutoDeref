@@ -1,6 +1,6 @@
 package MongoDBx::AutoDeref;
 BEGIN {
-  $MongoDBx::AutoDeref::VERSION = '1.110530';
+  $MongoDBx::AutoDeref::VERSION = '1.110560';
 }
 
 #ABSTRACT: Automagically dereference MongoDB DBRefs lazily
@@ -92,7 +92,7 @@ MongoDBx::AutoDeref - Automagically dereference MongoDB DBRefs lazily
 
 =head1 VERSION
 
-version 1.110530
+version 1.110560
 
 =head1 SYNOPSIS
 

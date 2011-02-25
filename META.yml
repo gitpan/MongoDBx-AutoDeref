@@ -6,6 +6,7 @@ build_requires:
   Digest::SHA1: 0
   MongoDB: 0
   Test::More: 0
+  Try::Tiny: 0
 configure_requires:
   ExtUtils::MakeMaker: 6.31
 dynamic_config: 0
@@ -28,4 +29,4 @@ requires:
   namespace::autoclean: 0
 resources:
   repository: git://github.com/nperez/mongodbx-autoderef.git
-version: 1.110530
+version: 1.110560
